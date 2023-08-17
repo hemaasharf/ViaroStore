@@ -3,7 +3,6 @@ import { ProductCard, UpdateTitle } from '../../components/';
 import { ProductNotFound } from '../Proudct/components/ProductNotFound'
 import { FilterBar } from './components/ProductFilter';
 
-
 import { useLocation } from 'react-router-dom';
 import { useFilter } from '../../context/FilterContext';
 import { getProducts } from '../../services/productService';
