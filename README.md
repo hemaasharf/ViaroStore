@@ -11,6 +11,15 @@ ViraoBook is an e-commerce web application for book enthusiasts. Browse and shop
 - Sign up and log in to access your personalized dashboard
 - Place orders and view order history
 - Responsive design for mobile and desktop devices
+- Filter books using various criteria using the FilterBar
+
+## FilterBar Feature
+
+Enhance your shopping experience with the FilterBar feature:
+
+- Click on the three dots on the product list page to reveal the FilterBar.
+- Filter books by best seller status, price range (high to low or low to high), availability (in stock), and ratings.
+- Quickly find the books that match your preferences and needs.
 
 ## Technologies Used
 
@@ -49,10 +58,11 @@ To deploy the ViraoBook E-Commerce App, the following steps were taken:
 1. Sign up with your email to create an account.
 2. Browse the featured books on the home page.
 3. Click on a book to view details.
-4. Add books to your cart and proceed to checkout.
-5. View and manage your cart on the cart page.
-6. Place an order and provide your name and email.
-7. Pay securely and receive a success or failure message.
+4. Use the FilterBar to refine your book selection based on different criteria.
+5. Add books to your cart and proceed to checkout.
+6. View and manage your cart on the cart page.
+7. Place an order and provide your name and email.
+8. Pay securely and receive a success or failure message.
 
 ## Contributing
 
