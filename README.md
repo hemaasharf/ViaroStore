@@ -35,7 +35,7 @@ To deploy the ViraoBook E-Commerce App, the following steps were taken:
 
 1. The front-end was deployed on Netlify. You can check out the live demo [here](https://viarostore.netlify.app/).
 
-2. The back-end was deployed using the Render platform.
+2. The back-end was deployed using the Render platform. The Express server serves the front-end and proxies API requests to the backend.
 
 ## Getting Started
 
